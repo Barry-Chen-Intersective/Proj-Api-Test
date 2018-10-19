@@ -1,7 +1,7 @@
-Welcome to the AWS CodeStar sample web service
+This is a project for implementing the api testing with lambda function
 ==============================================
 
-This sample code helps get you started with a simple Python web service using
+I use the sample code, which helps get me started with a simple Python web service using
 AWS Lambda and Amazon API Gateway.
 
 What's Here
@@ -12,7 +12,7 @@ This sample includes:
 * README.md - this file
 * buildspec.yml - this file is used by AWS CodeBuild to package your
   application for deployment to AWS Lambda
-* index.py - this file contains the sample Python code for the web service
+* index.py - this file contains the Python code for the web service
 * template.yml - this file contains the AWS Serverless Application Model (AWS SAM) used
   by AWS CloudFormation to deploy your application to AWS Lambda and Amazon API
   Gateway.
