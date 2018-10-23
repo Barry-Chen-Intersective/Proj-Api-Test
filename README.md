@@ -17,6 +17,7 @@ This sample includes:
   by AWS CloudFormation to deploy your application to AWS Lambda and Amazon API
   Gateway.
 * tests/ - this directory contains unit tests for your application
+* requirements.txt - list the dependencies
 
 
 What Do I Do Next?
